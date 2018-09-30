@@ -156,12 +156,12 @@ body:active {
   transform: scale(1.7);
 }
 
-/*#key-dots .dot.white {
+#key-dots .dot.white {
   color: #1b841f;
   background-color: #fff;
 }
 
-#key-dots .dot.white span.show {
+/*#key-dots .dot.white span.show {
   opacity: 1;
 }
 
