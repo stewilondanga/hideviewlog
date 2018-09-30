@@ -169,7 +169,7 @@ body:active {
   right: 0;
 }
 
-/*#show-key i.fas {
+#show-key i.fas {
   display: block;
   width: 26px;
   height: 27px;
@@ -178,7 +178,7 @@ body:active {
   padding: 28.5px 27.07px;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
