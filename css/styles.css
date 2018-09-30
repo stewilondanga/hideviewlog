@@ -34,7 +34,7 @@ body:active {
   height: 1.5em;
 }
 
-/*#app-cover {
+#app-cover {
   position: absolute;
   top: 50%;
   left: 0;
@@ -44,7 +44,7 @@ body:active {
   margin-top: -40px;
 }
 
-#cover {
+/*#cover {
   position: relative;
   height: 80px;
   background-color: #25bf2b;
