@@ -136,13 +136,13 @@ body:active {
   margin-right: 0;
 }
 
-/*.dot span {
+.dot span {
   display: block;
   opacity: 0;
   transition: 0.4s ease opacity;
 }
 
-#key-dots.active {
+/*#key-dots.active {
   z-index: 3;
 }
 
