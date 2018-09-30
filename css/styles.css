@@ -59,7 +59,7 @@ body:active {
   bottom: 0;
 }
 
-/*#key-icon {
+#key-icon {
   display: block;
   left: 0;
   width: 23px;
@@ -71,7 +71,7 @@ body:active {
   padding: 27px 28.63px;
 }
 
-#key-cover, #key-dots {
+/*#key-cover, #key-dots {
   left: 80px;
   right: 80px;
 }
