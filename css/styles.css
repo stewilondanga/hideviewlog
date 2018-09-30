@@ -100,7 +100,7 @@ body:active {
   z-index: 1;
 }
 
-/*#dots {
+#dots {
   position: absolute;
   top: 0;
   right: 0;
@@ -109,7 +109,7 @@ body:active {
   height: 80px;
 }
 
-#key, #dots {
+/*#key, #dots {
   width: 160px;
   margin: 0 auto;
 }
