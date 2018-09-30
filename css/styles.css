@@ -7,6 +7,13 @@ html, body {
   min-height: 100%;
 }
 
+body {
+  margin: 0;
+  background-color: #e7f7e7;
+  cursor: url(https://www.webslake.com/w_img/codepen/c1.png) 32 32, auto;
+  cursor: -webkit-image-set(url(https://www.webslake.com/w_img/codepen/c1.png) 1x, url(https://www.webslake.com/w_img/codepen/c2.png) 2x) 32 32, auto;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -30,13 +37,6 @@ html, body {
   height: 1.5em;
 }
 
-
-body {
-  margin: 0;
-  background-color: #e7f7e7;
-  cursor: url(https://www.webslake.com/w_img/codepen/c1.png) 32 32, auto;
-  cursor: -webkit-image-set(url(https://www.webslake.com/w_img/codepen/c1.png) 1x, url(https://www.webslake.com/w_img/codepen/c2.png) 2x) 32 32, auto;
-}
 
 body:active {
   cursor: url(https://www.webslake.com/w_img/codepen/c1a.png) 32 32, auto;
