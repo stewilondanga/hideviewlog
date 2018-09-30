@@ -146,7 +146,7 @@ body:active {
   z-index: 3;
 }
 
-/*#key-dots.active .dot {
+#key-dots.active .dot {
   color: #fff;
   font-size: 12px;
   font-weight: bold;
@@ -156,7 +156,7 @@ body:active {
   transform: scale(1.7);
 }
 
-#key-dots .dot.white {
+/*#key-dots .dot.white {
   color: #1b841f;
   background-color: #fff;
 }
