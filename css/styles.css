@@ -30,11 +30,11 @@ body:active {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-#app-cover {
+/*#app-cover {
   position: absolute;
   top: 50%;
   left: 0;
