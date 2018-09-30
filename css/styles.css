@@ -19,14 +19,13 @@ body:active {
   cursor: -webkit-image-set( url(https://www.webslake.com/w_img/codepen/c1a.png) 1x, url(https://www.webslake.com/w_img/codepen/c2a.png) 2x) 32 32, auto;
 }
 
-/*
 .my_social {
   position: absolute;
   top: 25px;
   left: 25px;
 }
 
-.my_social a {
+/*.my_social a {
   display: inline-block;
   height: 2.5em;
 }
