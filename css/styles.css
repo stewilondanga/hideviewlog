@@ -80,7 +80,7 @@ body:active {
   z-index: 2;
 }
 
-/*#key {
+#key {
   position: relative;
   display: block;
   left: 6px;
@@ -95,7 +95,7 @@ body:active {
   background-color: transparent;
 }
 
-#key-dots {
+/*#key-dots {
   overflow: hidden;
   z-index: 1;
 }
