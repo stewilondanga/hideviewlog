@@ -165,11 +165,11 @@ body:active {
   opacity: 1;
 }
 
-/*#show-key {
+#show-key {
   right: 0;
 }
 
-#show-key i.fas {
+/*#show-key i.fas {
   display: block;
   width: 26px;
   height: 27px;
