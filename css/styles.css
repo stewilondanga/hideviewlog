@@ -109,12 +109,12 @@ body:active {
   height: 80px;
 }
 
-/*#key, #dots {
+#key, #dots {
   width: 160px;
   margin: 0 auto;
 }
 
-.dot {
+/*.dot {
   position: relative;
   top: 50%;
   width: 20px;
