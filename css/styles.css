@@ -44,7 +44,7 @@ body:active {
   margin-top: -40px;
 }
 
-/*#cover {
+#cover {
   position: relative;
   height: 80px;
   background-color: #25bf2b;
@@ -53,7 +53,7 @@ body:active {
   overflow: hidden;
 }
 
-#key-icon, #key-cover, #key-dots, #show-key {
+/*#key-icon, #key-cover, #key-dots, #show-key {
   position: absolute;
   top: 0;
   bottom: 0;
