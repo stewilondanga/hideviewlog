@@ -142,11 +142,11 @@ body:active {
   transition: 0.4s ease opacity;
 }
 
-/*#key-dots.active {
+#key-dots.active {
   z-index: 3;
 }
 
-#key-dots.active .dot {
+/*#key-dots.active .dot {
   color: #fff;
   font-size: 12px;
   font-weight: bold;
