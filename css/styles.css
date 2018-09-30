@@ -71,12 +71,12 @@ body:active {
   padding: 27px 28.63px;
 }
 
-/*#key-cover, #key-dots {
+#key-cover, #key-dots {
   left: 80px;
   right: 80px;
 }
 
-#key-cover {
+/*#key-cover {
   z-index: 2;
 }
 
