@@ -95,12 +95,12 @@ body:active {
   background-color: transparent;
 }
 
-/*#key-dots {
+#key-dots {
   overflow: hidden;
   z-index: 1;
 }
 
-#dots {
+/*#dots {
   position: absolute;
   top: 0;
   right: 0;
