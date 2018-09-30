@@ -76,11 +76,11 @@ body:active {
   right: 80px;
 }
 
-/*#key-cover {
+#key-cover {
   z-index: 2;
 }
 
-#key {
+/*#key {
   position: relative;
   display: block;
   left: 6px;
